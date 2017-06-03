@@ -1,11 +1,7 @@
 <html>
 
 <title>Game </title>
-<body>
-<div id="box1"> </div>
-<div id="box2"> </div>
-<div id="box3"></div>
-</body>
+
 <style>
 box1{
 background-color:blue;
@@ -27,4 +23,9 @@ width:150px;
 float:right;
 }
 </style>
+<body>
+<div id="box1"> </div>
+<div id="box2"> </div>
+<div id="box3"></div>
+</body>
 </html>
