@@ -7,8 +7,8 @@
 <style>
 div{
 background-color:red;
-height:60px;
-width:60px;
+height:10px;
+width:10px;
 border:3px solid #000000;
 float:left;
 }
