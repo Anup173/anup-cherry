@@ -2,9 +2,9 @@
 
 <title>Game </title>
 <body>
-<div id="box1">12 </div>
-<div id="box2">13 </div>
-<div id="box3">14</div>
+<div id="box1"> </div>
+<div id="box2"> </div>
+<div id="box3"></div>
 </body>
 <style>
 box1{
